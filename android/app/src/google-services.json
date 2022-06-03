@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "172638574464",
+    "project_id": "audica-6e8d8",
+    "storage_bucket": "audica-6e8d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172638574464:android:7686e26aafad3f701cd365",
+        "android_client_info": {
+          "package_name": "com.example.audica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172638574464-6bb77pq87vbk97a103d5qk5p4o2inal5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ2EK1rfR5g-Cf_6Yx7MIMLf2PuDcBBd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172638574464-6bb77pq87vbk97a103d5qk5p4o2inal5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

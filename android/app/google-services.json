@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "748076103881",
+    "project_id": "audica-673aa",
+    "storage_bucket": "audica-673aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748076103881:android:82f61136a811757a0c3518",
+        "android_client_info": {
+          "package_name": "com.ehson.audica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748076103881-c5bg9967pt45ett85kk3mbh7eniugpji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqHwkMsUqbZJpwSkdKubbOHMyY3zE0ZaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748076103881-c5bg9967pt45ett85kk3mbh7eniugpji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
